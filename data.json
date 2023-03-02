@@ -1,0 +1,80 @@
+[
+   {
+     "firstname": "John",
+     "lastname": "Doe",
+     "email": "johndoe@example.com",
+     "password": "password123",
+     "phone": 1234567890,
+     "role": "admin"
+   },
+   {
+     "firstname": "Jane",
+     "lastname": "Doe",
+     "email": "janedoe@example.com",
+     "password": "password456",
+     "phone": 1234567891,
+     "role": "user"
+   },
+   {
+     "firstname": "Bob",
+     "lastname": "Smith",
+     "email": "bobsmith@example.com",
+     "password": "password789",
+     "phone": 1234567892,
+     "role": "user"
+   },
+   {
+     "firstname": "Alice",
+     "email": "alice@example.com",
+     "password": "password123",
+     "phone": 1234567893,
+     "role": "user"
+   },
+   {
+     "firstname": "Chris",
+     "lastname": "Johnson",
+     "email": "chrisjohnson@example.com",
+     "password": "password456",
+     "role": "user"
+   },
+   {
+     "firstname": "David",
+     "lastname": "Lee",
+     "email": "davidlee@example.com",
+     "password": "password789",
+     "phone": 1234567894,
+     "role": "user"
+   },
+   {
+     "firstname": "Emily",
+     "lastname": "Wilson",
+     "email": "emilywilson@example.com",
+     "password": "password123",
+     "phone": 1234567895,
+     "role": "user"
+   },
+   {
+     "firstname": "Frank",
+     "lastname": "Brown",
+     "email": "frankbrown@example.com",
+     "password": "password456",
+     "role": "user"
+   },
+   {
+     "firstname": "Grace",
+     "lastname": "Davis",
+     "email": "gracedavis@example.com",
+     "password": "password789",
+     "phone": 1234567896,
+     "role": "user"
+   },
+   {
+     "firstname": "Henry",
+     "lastname": "Wilson",
+     "email": "henrywilson@example.com",
+     "password": "password123",
+     "phone": 1234567897,
+     "role": "user"
+   }
+ ]
+ 
